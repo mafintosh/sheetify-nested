@@ -16,8 +16,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "postcss": "^5.2.6",
-    "postcss-nested": "^1.0.0"
+    "postcss": "^8.4.14",
+    "postcss-nested": "^5.0.6"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
